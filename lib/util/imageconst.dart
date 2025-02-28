@@ -1,0 +1,37 @@
+class ImageConst {
+  ImageConst._();
+  static const String community = 'assets/image/community.png';
+  static const String home = 'assets/image/home.png';
+  static const String mypage = 'assets/image/mypage.png';
+  static const String search = 'assets/image/search.png';
+  static const String logo = 'assets/image/Logo.png';
+  static const String iconSearch = 'assets/image/Icon_Search.png';
+  static const String b1 = 'assets/image/1.png';
+  static const String b2 = 'assets/image/2.png';
+  static const String b3 = 'assets/image/3.png';
+  static const String b4 = 'assets/image/4.png';
+  static const String more = 'assets/image/more.png';
+  static const String l1 = 'assets/image/l1.png';
+  static const String l2 = 'assets/image/l2.png';
+  static const String l3 = 'assets/image/l3.png';
+  static const String reward = 'assets/image/reward.png';
+  static const String star = 'assets/image/star.png';
+  static const String e1 = 'assets/image/e1.png';
+  static const String e2 = 'assets/image/e2.png';
+  static const String e3 = 'assets/image/e3.png';
+  static const String e4 = 'assets/image/e4.png';
+  static const String e5 = 'assets/image/e5.png';
+  static const String e6 = 'assets/image/e6.png';
+  static const String e7 = 'assets/image/e7.png';
+  static const String e8 = 'assets/image/e8.png';
+  static const String e9 = 'assets/image/e9.png';
+  static const String send = 'assets/image/bxs_send.png';
+  static const String downArray = 'assets/image/downArrow.png';
+  static const String backbutton = 'assets/image/backbutton.png';
+  static const String bookmark = 'assets/image/bookmark.png';
+  static const String charge = 'assets/image/charge.png';
+  static const String p1 = 'assets/image/p1.png';
+  static const String p2 = 'assets/image/p2.png';
+  static const String p3 = 'assets/image/p3.png';
+  static const String comment = 'assets/image/comment.png';
+}
